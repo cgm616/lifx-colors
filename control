@@ -1,0 +1,9 @@
+Package: me.cgm616.lifx
+Name: lifx
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: cgm616
+Author: cgm616
+Section: Tweaks
